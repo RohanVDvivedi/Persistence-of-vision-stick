@@ -1,4 +1,4 @@
-# POV---Persistence-of-Vision-stick-arduino-project
+# Persistence of vision stick
 To show the String on the rotating stick
 
 POV - Persistence Of Vision
